@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+build/
+output/
+*.spec
+*.egg-info/
+dist/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Videos (large binary files)
+video/
+
+# Local development
+.env
+.env.local
+*.log
